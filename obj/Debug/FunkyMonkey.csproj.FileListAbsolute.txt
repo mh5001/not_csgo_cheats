@@ -1,0 +1,10 @@
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.Main.resources
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.Properties.Resources.resources
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.csproj.GenerateResource.cache
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\bin\Debug\FunkyMonkey.exe.config
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\bin\Debug\FunkyMonkey.exe
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\bin\Debug\FunkyMonkey.pdb
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.exe
+C:\Users\micha\OneDrive\Desktop\Others\C#\FunkyMonkey\obj\Debug\FunkyMonkey.pdb
